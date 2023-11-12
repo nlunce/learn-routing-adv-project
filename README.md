@@ -10,7 +10,7 @@ I developed an event website by utilizing a tech stack that includes JavaScript,
 
 The primary purpose behind creating this software is to establish a user-centric and efficient events website. Through this platform, users can browse an extensive catalog of events, access detailed information about each event, and create or edit events.
 
-[Software Demo Video](https://youtu.be/SqWMdhQnLvE)
+[Software Demo Video](https://youtu.be/ZOHBvnGohN0)
 
 # Development Environment
 
