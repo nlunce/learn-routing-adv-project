@@ -33,7 +33,10 @@ Throughout the project, I found the following websites to be helpful in gaining 
 - [MDN Web Docs](https://developer.mozilla.org): A comprehensive resource for web development documentation and tutorials.
 - [Stack Overflow](https://stackoverflow.com): A valuable community where I found answers to various technical questions.
 
+# Future Work
 
+- Add JWT persistent authorization and have protected routes
+- Connect a Cognito user pool
 
 
 
