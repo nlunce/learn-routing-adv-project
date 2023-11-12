@@ -4,11 +4,11 @@ In my pursuit of continuous learning as a software engineer, I have developed a 
 
 ## Description
 
-I developed am event website by utilizing a tech stack that includes JavaScript, and React.
+I developed an event website by utilizing a tech stack that includes JavaScript, and React.
 
 ## Purpose
 
-The primary purpose behind creating this software is to establish a user-centric and efficient online marketplace for books. Through this platform, users can browse an extensive catalog of books, access detailed information about each title, and make purchases as per their preferences.
+The primary purpose behind creating this software is to establish a user-centric and efficient events website. Through this platform, users can browse an extensive catalog of events, access detailed information about each event, and create or edit events.
 
 [Software Demo Video](https://youtu.be/SqWMdhQnLvE)
 
@@ -29,13 +29,10 @@ During the development of this project, I used the following tools and technolog
 
 Throughout the project, I found the following websites to be helpful in gaining knowledge, troubleshooting issues, and improving my development skills:
 
-- [Understanding TypeScript - Udemy Course](https://www.udemy.com/course/understanding-typescript/?kw=understanding&src=sac): Understand what TypeScript really is about and how it works
+- [React - The Complete Guide 2023 (incl. React Router & Redux) - Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/): Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!
 - [MDN Web Docs](https://developer.mozilla.org): A comprehensive resource for web development documentation and tutorials.
 - [Stack Overflow](https://stackoverflow.com): A valuable community where I found answers to various technical questions.
-- [Amazon Cognito user pools Documentation](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html) Documentation for AWS Cognito Pool
-- [DynamoDB Documentation](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html): Documentation and tutorials on DynamoDB, assisting in database setup and management.
-- [AWS Amplify Documentation](https://docs.aws.amazon.com/amplify/): Documentation and tutorials on AWS Amplify, assisting in frontend setup and management.
-- [AWS S3](https://docs.aws.amazon.com/s3/): Documentation and tutorials on Amazon Simple Storage Service Documentation, assisting in object database setup and management.
+
 
 
 
