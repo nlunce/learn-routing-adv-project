@@ -42,7 +42,13 @@ function EventForm({ method, event }) {
       </p>
       <p>
         <label htmlFor="description">Description</label>
-        <textarea id="description" name="description" rows="5" required />
+        <textarea
+          id="description"
+          name="description"
+          rows="5"
+          required
+          defaultValue={event ? event.description : ""}
+        />
       </p>
       <div className={classes.actions}>
         <button type="button" onClick={cancelHandler}>
