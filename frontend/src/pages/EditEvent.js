@@ -1,9 +1,9 @@
-// import { Link } from "react-router-dom";
+import { useLoaderData } from "react-router-dom";
+import EventForm from "../components/EventForm";
 
 export default function EditEventPage() {
-  return (
-    <>
-      <h1>Edit Event Page</h1>
-    </>
-  );
+  const data = useLoaderData();
+  const event = data.event;
+
+  return <EventForm event={event} />;
 }
